@@ -2,3 +2,150 @@ nikto -h https://impuestos.gob.bo -o nikto_sin.txt -Format txt
 nuclei -u https://impuestos.gob.bo -severity info,low -o nuclei_sin.txt
 openssl s_client -connect impuestos.gob.bo:443
 ─$ whatweb -v https://impuestos.gob.bo
+
+
+┌──(kali㉿kali)-[~]
+└─$ curl -s https://impuestos.gob.bo/wp-json/ | head -c 2000
+{"name":"Servicio de Impuestos Nacionales","description":"Administraci\u00f3n Tributaria","url":"https:\/\/www.impuestos.gob.bo","home":"https:\/\/www.impuestos.gob.bo","gmt_offset":-4,"timezone_string":"America\/La_Paz","page_for_posts":0,"page_on_front":0,"show_on_front":"posts","namespaces":["oembed\/1.0","contact-form-7\/v1","elementor\/v1\/documents","elementor\/v1","elementor-ai\/v1","quadlayers\/menu-icons","wp\/v2","wp-site-health\/v1","wp-block-editor\/v1"],"authentication":{"application-passwords":{"endpoints":{"authorization":"https:\/\/www.impuestos.gob.bo\/wp-admin\/authorize-application.php"}}},"routes":{"\/":{"namespace":"","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"context":{"default":"view","required":false}}}],"_links":{"self":[{"href":"https:\/\/www.impuestos.gob.bo\/index.php\/wp-json\/"}]}},"\/batch\/v1":{"namespace":"","methods":["POST"],"endpoints":[{"methods":["POST"],"args":{"validation":{"type":"string","enum":["require-all-validate","normal"],"default":"normal","required":false},"requests":{"type":"array","maxItems":25,"items":{"type":"object","properties":{"method":{"type":"string","enum":["POST","PUT","PATCH","DELETE"],"default":"POST"},"path":{"type":"string","required":true},"body":{"type":"object","properties":[],"additionalProperties":true},"headers":{"type":"object","properties":[],"additionalProperties":{"type":["string","array"],"items":{"type":"string"}}}}},"required":true}}}],"_links":{"self":[{"href":"https:\/\/www.impuestos.gob.bo\/index.php\/wp-json\/batch\/v1"}]}},"\/oembed\/1.0":{"namespace":"oembed\/1.0","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"namespace":{"default":"oembed\/1.0","required":false},"context":{"default":"view","required":false}}}],"_links":{"self":[{"href":"https:\/\/www.impuestos.gob.bo\/index.php\/wp-json\/oembed\/1.0"}]}},"\/oembed\/1.0\/embed":{"namespace":"oembed\/1.0","methods":["GET"],"endpoints":[{"methods":["GET"],"args":{"url":{"description":"La URL del recurso del                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -s https://impuestos.gob.bo/wp-json/wp/v2/users
+{"code":"rest_no_route","message":"No se ha encontrado ninguna ruta que coincida con la URL y el m\u00e9todo de la solicitud.","data":{"status":404}}                                                                             
+┌──(kali㉿kali)-[~]
+└─$ echo | openssl s_client -connect impuestos.gob.bo:443 -tls1_2 2>&1 | grep -E "Protocol|Cipher"
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ echo | openssl s_client -connect impuestos.gob.bo:443 -tls1 2>&1 | grep -E "Protocol|Cipher|error|alert"
+New, TLSv1.0, Cipher is ECDHE-RSA-AES256-SHA
+Protocol: TLSv1
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ echo | openssl s_client -connect impuestos.gob.bo:443 -ssl3 2>&1 | grep -E "Protocol|Cipher|error|alert"
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -s -I -X OPTIONS https://impuestos.gob.bo
+HTTP/1.1 200 OK
+Date: Sun, 19 Jul 2026 13:27:28 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Link: <https://www.impuestos.gob.bo/index.php/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: cookiesession1=678B2867CE6177CCBEE83219FC7B27C5;Expires=Mon, 19 Jul 2027 13:27:28 GMT;Path=/;HttpOnly
+content-length: 158517
+
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -s -o /dev/null -w "%{http_code}\n" -X TRACE https://impuestos.gob.bo
+curl -s -o /dev/null -w "%{http_code}\n" -X PUT https://impuestos.gob.bo
+405
+200
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -s -I https://impuestos.gob.bo/paginaquenoexiste12345
+curl -s https://impuestos.gob.bo/paginaquenoexiste12345 | head -c 1500
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 19 Jul 2026 13:27:54 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+X-Redirect-By: WordPress
+Location: https://www.impuestos.gob.bo/paginaquenoexiste12345
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: cookiesession1=678B28679318C3BB4E3D2EF5F4621575;Expires=Mon, 19 Jul 2027 13:27:54 GMT;Path=/;HttpOnly
+
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$                                                                       
+curl -s https://impuestos.gob.bo/paginaquenoexiste12345 | head -c 1500
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -s https://impuestos.gob.bo/paginaquenoexiste12345 | head -c 1500
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ curl -sL https://impuestos.gob.bo/paginaquenoexiste12345 | head -c 2000
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página no encontrada - 404</title>
+    <link rel="stylesheet" href="404.css">
+    <style>
+        /* --- CSS para página 404 --- */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .container-404 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container-404 h1 {
+            font-size: 8rem;
+            margin: 0;
+            color: #ff4c4c;
+        }
+
+        .container-404 h2 {
+            font-size: 2rem;
+            margin: 10px 0;
+            color: #333;
+        }
+
+        .container-404 p {
+            font-size: 1.2rem;
+            color: #666;
+            margin: 20px 0;
+        }
+
+        .container-404 a {
+            display: inline-block;
+            padding: 12px 30px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+        }
+
+        .container-404 a:hover {
+            background-color: #0056b3;
+        }
+
+        /* Responsive */
+        @media(max-width: 600px) {
+            .container-404 h1 {
+                font-size: 5rem;
+            }
+
+            .container-404 h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container-404">
+        <h1>404</h1>
+        <h2>Página no encontrada</h2>
+        <p>Lo sentimos, la página que buscas no existe o fue movida.</p>
+        <a href="/">Ir al inicio</a>
+    </div>
+</body>
+</html>                                                                             
