@@ -1,0 +1,180 @@
+crt.sh ID,Logged At,Not Before,Not After,Common Name,Matching Identities,Issuer Name
+8553335,2015-07-23,2014-09-18,2016-09-18,"webmail.impuestos.gob.bo","autodiscover.impuestos.gob.bo
+impuestos.gob.bo
+webmail.impuestos.gob.bo
+www.webmail.impuestos.gob.bo","C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2"
+14491014,2016-03-08,2013-09-20,2016-09-20,"sipexternal.impuestos.gob.bo","dialin.impuestos.gob.bo
+impuestos.gob.bo
+lsrp.impuestos.gob.bo
+lyncdiscover.impuestos.gob.bo
+meet.impuestos.gob.bo
+sipexternal.impuestos.gob.bo
+wacpool.impuestos.gob.bo
+webconf.impuestos.gob.bo
+www.sipexternal.impuestos.gob.bo","C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287"
+31166438,2016-09-06,2016-08-23,2019-08-28,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+39388111,2016-10-02,2012-09-06,2014-09-06,"webmail.impuestos.gob.bo","autodiscover.impuestos.gob.bo
+webmail.impuestos.gob.bo
+www.webmail.impuestos.gob.bo","C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287"
+42496830,2016-10-12,2016-08-23,2019-08-28,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo
+webmail.impuestos.gob.bo","C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA"
+302118956,2018-01-13,2017-05-10,2019-05-10,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2"
+1774352081,2019-08-15,2019-08-15,2019-11-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+1822777420,2019-08-15,2019-08-15,2019-11-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2103449443,2019-11-12,2019-11-12,2020-02-10,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2103449517,2019-11-12,2019-11-12,2020-02-10,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2414041621,2020-02-03,2020-02-03,2020-05-03,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2430265997,2020-02-03,2020-02-03,2020-05-03,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2457071685,2020-02-14,2020-02-13,2020-05-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2459013881,2020-02-14,2020-02-13,2020-05-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2736912184,2020-04-26,2020-04-26,2020-07-25,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2758715555,2020-04-26,2020-04-26,2020-07-25,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+2912837834,2020-06-06,2020-06-06,2020-07-06,"expe.pruebas.impuestos.gob.bo","expe.pruebas.impuestos.gob.bo
+www.expe.pruebas.impuestos.gob.bo","C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA"
+2912837738,2020-06-06,2020-06-06,2020-07-06,"expe.pruebas.impuestos.gob.bo","expe.pruebas.impuestos.gob.bo
+www.expe.pruebas.impuestos.gob.bo","C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA"
+3013083519,2020-06-28,2020-06-28,2020-09-26,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3013082516,2020-06-28,2020-06-28,2020-09-26,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3069135461,2020-07-10,2020-07-10,2021-07-10,"expe.pruebas.impuestos.gob.bo","expe.pruebas.impuestos.gob.bo
+www.expe.pruebas.impuestos.gob.bo","C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2"
+3119729659,2020-07-21,2020-07-21,2020-10-19,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3119731174,2020-07-21,2020-07-21,2020-10-19,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3438870684,2020-09-28,2020-09-28,2020-12-27,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3438868858,2020-09-28,2020-09-28,2020-12-27,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3513159479,2020-10-15,2020-10-15,2021-01-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3513165322,2020-10-15,2020-10-15,2021-01-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3656171759,2020-11-16,2020-11-16,2021-02-14,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3656171774,2020-11-16,2020-11-16,2021-02-14,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"
+3902250655,2021-01-09,2021-01-09,2021-04-09,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+3902255841,2021-01-09,2021-01-09,2021-04-09,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4148393505,2021-03-01,2021-03-01,2021-05-30,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4148393435,2021-03-01,2021-03-01,2021-05-30,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4204848006,2021-03-12,2021-03-12,2021-06-10,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4204847351,2021-03-12,2021-03-12,2021-06-10,"test.idp.impuestos.gob.bo","test.idp.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4332812864,2021-04-06,2021-04-06,2021-07-05,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4332813403,2021-04-06,2021-04-06,2021-07-05,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4622057728,2021-05-31,2021-05-31,2021-08-29,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4622057677,2021-05-31,2021-05-31,2021-08-29,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4789082812,2021-06-30,2021-06-30,2021-09-28,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+4789082757,2021-06-30,2021-06-30,2021-09-28,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5132577754,2021-08-30,2021-08-30,2021-11-28,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5132577432,2021-08-30,2021-08-30,2021-11-28,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5156768604,2021-09-03,2021-09-03,2021-12-02,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5156767713,2021-09-03,2021-09-03,2021-12-02,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5217894771,2021-09-14,2021-09-14,2022-10-15,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+5279835542,2021-09-24,2021-09-24,2021-12-23,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5279835576,2021-09-24,2021-09-24,2021-12-23,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5323450558,2021-10-01,2021-10-01,2022-11-01,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+5669889527,2021-11-24,2021-11-24,2022-02-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5669904366,2021-11-24,2021-11-24,2022-02-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5669916466,2021-11-24,2021-11-24,2022-02-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5669942114,2021-11-24,2021-11-24,2022-02-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5702149113,2021-11-29,2021-11-29,2022-02-27,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5702153599,2021-11-29,2021-11-29,2022-02-27,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5722071644,2021-12-02,2021-12-02,2022-03-02,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5722080990,2021-12-02,2021-12-02,2022-03-02,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5748191318,2021-12-06,2021-12-06,2022-03-06,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5748199557,2021-12-06,2021-12-06,2022-03-06,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5760266624,2021-12-08,2021-12-08,2022-03-08,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5760271538,2021-12-08,2021-12-08,2022-03-08,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5760294498,2021-12-08,2021-12-08,2022-03-08,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5760299433,2021-12-08,2021-12-08,2022-03-08,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5773819182,2021-12-10,2021-12-10,2022-03-10,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5773826360,2021-12-10,2021-12-10,2022-03-10,"reuniones.impuestos.gob.bo","reuniones.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5832708794,2021-12-20,2021-12-20,2022-03-20,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5832633805,2021-12-20,2021-12-20,2022-03-20,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5834747900,2021-12-20,2021-12-20,2022-03-20,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5834750089,2021-12-20,2021-12-20,2022-03-20,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5872943952,2021-12-27,2021-12-27,2022-03-27,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5872943373,2021-12-27,2021-12-27,2022-03-27,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5873293460,2021-12-27,2021-12-27,2022-03-27,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5873296481,2021-12-27,2021-12-27,2022-03-27,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5893761811,2021-12-31,2021-12-31,2022-03-31,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5893759136,2021-12-31,2021-12-31,2022-03-31,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+5922918772,2022-01-05,2022-01-05,2023-02-05,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+6270159349,2022-03-02,2022-03-02,2022-05-31,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6270165017,2022-03-02,2022-03-02,2022-05-31,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6367173452,2022-03-18,2022-03-18,2022-06-16,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6369284677,2022-03-18,2022-03-18,2022-06-16,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6592396124,2022-04-22,2022-01-05,2023-02-05,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+6741853413,2022-05-16,2022-05-16,2022-08-14,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6741854404,2022-05-16,2022-05-16,2022-08-14,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6940297937,2022-06-15,2022-06-15,2022-09-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+6944452933,2022-06-15,2022-06-15,2022-09-13,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7301831157,2022-08-09,2022-08-09,2022-11-07,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7301831191,2022-08-09,2022-08-09,2022-11-07,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7485460453,2022-09-06,2022-09-06,2022-12-05,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7485475683,2022-09-06,2022-09-06,2022-12-05,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7493798067,2022-09-07,2022-09-07,2022-12-06,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7493797656,2022-09-07,2022-09-07,2022-12-06,"culturatributaria-naf.impuestos.gob.bo","culturatributaria-naf.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7821245616,2022-10-24,2022-10-24,2023-01-22,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+7825697805,2022-10-24,2022-10-24,2023-01-22,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8122160065,2022-12-04,2022-12-04,2023-03-04,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8142424551,2022-12-04,2022-12-04,2023-03-04,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8356565090,2023-01-03,2023-01-03,2023-04-03,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8370647590,2023-01-03,2023-01-03,2023-04-03,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8589624546,2023-02-06,2023-02-06,2024-03-08,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+8732137660,2023-02-24,2023-02-24,2024-03-26,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+8795587005,2023-03-03,2023-03-03,2023-06-01,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+8843785489,2023-03-03,2023-03-03,2023-06-01,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9051168474,2023-04-03,2023-04-03,2023-07-02,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9071813600,2023-04-03,2023-04-03,2023-07-02,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9545789511,2023-06-01,2023-06-01,2023-08-30,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9563735974,2023-06-01,2023-06-01,2023-08-30,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9814437716,2023-07-03,2023-07-03,2023-10-01,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+9833763337,2023-07-03,2023-07-03,2023-10-01,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10328920965,2023-08-30,2023-08-30,2023-11-28,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10455046082,2023-08-30,2023-08-30,2023-11-28,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10571024679,2023-10-02,2023-10-02,2023-12-31,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10765213509,2023-10-02,2023-10-02,2023-12-31,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10680927697,2023-10-09,2023-02-24,2024-03-26,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte RSA CA 2018"
+10688900029,2023-10-09,2023-10-09,2024-01-07,"www.impuestos.gob.bo","impuestos.gob.bo
+www.impuestos.gob.bo","C=ES, ST=Illes Balears, L=Manacor, O=\"Soluciones Corporativas IP, SL\", CN=Don Dominio / MrDomain RSA DV CA"
+10688900064,2023-10-09,2023-10-09,2024-01-07,"www.impuestos.gob.bo","impuestos.gob.bo
+www.impuestos.gob.bo","C=ES, ST=Illes Balears, L=Manacor, O=\"Soluciones Corporativas IP, SL\", CN=Don Dominio / MrDomain RSA DV CA"
+10927086643,2023-10-28,2023-10-28,2024-01-26,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10927089112,2023-10-28,2023-10-28,2024-01-26,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10927599773,2023-10-28,2023-10-28,2024-01-26,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+10927597608,2023-10-28,2023-10-28,2024-01-26,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11039691095,2023-11-08,2023-11-08,2024-02-06,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11039693302,2023-11-08,2023-11-08,2024-02-06,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11047982182,2023-11-09,2023-11-09,2024-02-07,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11047978095,2023-11-09,2023-11-09,2024-02-07,"chat2.impuestos.gob.bo","chat2.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11250755130,2023-11-28,2023-11-28,2024-02-26,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11250749849,2023-11-28,2023-11-28,2024-02-26,"*.impuestos.gob.bo","*.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11494907437,2023-12-18,2023-12-18,2024-03-17,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+11521983021,2023-12-18,2023-12-18,2024-03-17,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+12147441341,2024-02-21,2024-02-21,2025-02-19,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1"
+12424464757,2024-03-18,2024-03-18,2024-06-16,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+12424468433,2024-03-18,2024-03-18,2024-06-16,"sac.impuestos.gob.bo","sac.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R3"
+16702939897,2025-02-12,2025-02-12,2026-02-20,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1"
+16717926500,2025-02-13,2025-02-13,2025-05-14,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+17185033575,2025-02-13,2025-02-13,2025-05-14,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+17059174758,2025-03-11,2025-03-11,2025-06-09,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA"
+17059173129,2025-03-11,2025-03-11,2025-06-09,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA"
+17378293840,2025-03-24,2025-03-24,2025-06-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+17377944678,2025-03-24,2025-03-24,2025-06-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+18595551943,2025-05-24,2025-05-24,2025-08-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R11"
+18595392584,2025-05-24,2025-05-24,2025-08-22,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R11"
+19857460887,2025-07-23,2025-07-23,2025-10-21,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+19855850675,2025-07-23,2025-07-23,2025-10-21,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R10"
+21182307665,2025-09-21,2025-09-21,2025-12-20,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R12"
+21182334023,2025-09-21,2025-09-21,2025-12-20,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R12"
+22624229918,2025-11-20,2025-11-20,2026-02-18,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R13"
+22626676417,2025-11-20,2025-11-20,2026-02-18,"bbb.impuestos.gob.bo","bbb.impuestos.gob.bo","C=US, O=Let's Encrypt, CN=R13"
+24492171673,2026-02-18,2026-02-18,2027-02-17,"*.impuestos.gob.bo","*.impuestos.gob.bo
+impuestos.gob.bo","C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1"
