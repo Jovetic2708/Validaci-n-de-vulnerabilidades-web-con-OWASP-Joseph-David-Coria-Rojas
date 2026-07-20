@@ -1,0 +1,11 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/impuestos.gob.bo/v2.0/.well-known/openid-configuration ["0b9bcc5a-f5bc-4433-b4a4-ad173d827ec9"]
+[cookies-without-secure] [javascript] [info] impuestos.gob.bo ["cookiesession1"]
+[dmarc-detect] [dns] [info] _dmarc.impuestos.gob.bo [""v=DMARC1; p=reject; sp=reject; rua=mailto:abuse@impuestos.gob.bo; ruf=mailto:abuse@impuestos.gob.bo;  rf=afrf; pct=100; ri=86400; aspf=s; fo=1:s;""]
+[mx-fingerprint] [dns] [info] impuestos.gob.bo ["10 antispam1.weblinksrl.com."]
+[spf-record-detect] [dns] [info] impuestos.gob.bo ["v=spf1 mx a a:smtp-in1.impuestos.gob.bo a:smtp-in2.impuestos.gob.bo a:buzon.impuestos.gob.bo a:impuestos.gob.bo ip4:170.82.244.0/23  include:_spf.megalink.cloud -all""]
+[txt-fingerprint] [dns] [info] impuestos.gob.bo [""_l24f8t5rvlq90d889c1xklul2mfgyzy"",""_0mn7vv1ythvxbemkt9xshlc2dhtke7m"",""MS=53D2A9EA3D4ABE52284B08CAA920A58D46316A10"",""v=spf1 mx a a:smtp-in1.impuestos.gob.bo a:smtp-in2.impuestos.gob.bo a:buzon.impuestos.gob.bo a:impuestos.gob.bo ip4:170.82.244.0/23  include:_spf.megalink.cloud -all"",""n5kv9xmr523ts9qdqg732dnvxs8hrfz4"",""cisco-ci-domain-verification=7bf361a700515ed60eff5ce78026c43ecfd3218265ca7e2dded542a81e109927"",""google-site-verification=89IgfOSB3eHKgSKrY0Z3_N98P2NZ_KC-b41d5wpA4F8"",""google-site-verification=3wfPekR8mWsAFg6tKYpbOnEg_LCwUZiFS1koopSldmg"",""41gbkkk62997okrj38uqmr5puf""]
+[srv-service-detect] [dns] [info] _sip._tcp.impuestos.gob.bo ["SRV\t5 5 5060 telf-exe.impuestos.gob.bo.","SRV\t5 5 5060 telf-exe2.impuestos.gob.bo."]
+[nameserver-fingerprint] [dns] [info] impuestos.gob.bo ["ns3.MegaLink.com.","NS5.MegaLink.com.","ns4.MegaLink.com.","ns2.MegaLink.com."]
+[srv-service-detect] [dns] [info] _sips._tcp.impuestos.gob.bo ["SRV\t5 5 5061 telf-exe2.impuestos.gob.bo.","SRV\t10 10 5061 telf-exe.impuestos.gob.bo."]
+[srv-service-detect] [dns] [info] _sip._udp.impuestos.gob.bo ["SRV\t5 5 5060 telf-exe.impuestos.gob.bo.","SRV\t5 5 5060 telf-exe2.impuestos.gob.bo."]
+[caa-fingerprint] [dns] [info] impuestos.gob.bo
