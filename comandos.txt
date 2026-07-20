@@ -1,0 +1,4 @@
+nikto -h https://impuestos.gob.bo -o nikto_sin.txt -Format txt
+nuclei -u https://impuestos.gob.bo -severity info,low -o nuclei_sin.txt
+openssl s_client -connect impuestos.gob.bo:443
+─$ whatweb -v https://impuestos.gob.bo
